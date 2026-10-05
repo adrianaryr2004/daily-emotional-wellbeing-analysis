@@ -2,7 +2,7 @@
 
 Final Degree Project (Proyecto fin de grado) — Grado en Ciencia de Datos e Inteligencia Artificial, University of Deusto · San Sebastián, May 2026  
 Author: **Adriana Rodríguez Rodríguez** · GitHub: [@adrianaryr2004](https://github.com/adrianaryr2004)  
-Supervisor: Alexandre Barco Martelo
+Supervisors: Alex Barco (University of Deusto) and Dr Aleksandar Matic (Koa Health)
 
 This project analyses **daily emotional well-being from a personalized perspective**, using records of emotional states and contextual information derived from daily life. It is based on the **StudentLife** dataset (Dartmouth College), which combines smartphone sensing data, ecological momentary assessments (EMA) and psychological surveys.
 
